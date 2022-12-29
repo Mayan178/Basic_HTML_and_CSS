@@ -1,0 +1,12 @@
+table {
+	border: 2px dashed blue;
+	background-color: #ADFF2F;
+	color: #800000;
+	width: 600px;
+	font-family: Arial;
+	padding:10px;
+	text-align:right;
+}
+th {font-size:16px;}
+td {font-size:12px;}
+td:hover{background-color: #8A2BE2;}

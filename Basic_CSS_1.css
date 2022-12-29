@@ -1,0 +1,4 @@
+h1 {color:red; font-weight:bold; font-size:6;}
+div {color:blue;}
+div h2 {font-weight:bold; font-size:5;}
+div p {font-family: Arial; color: rgb(85,110,118);border: 1px solid blue; padding:20px; text-align:right;}
